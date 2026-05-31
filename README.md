@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on projects related to Data Analytics and Machine Learning<br>🌱 I’m currently learning Cybersecurity, Machine Learning, and Software Development<br>👯 I’m looking to collaborate on beginner-friendly projects and open-source contributions<br>🤔 I’m looking for help with improving my technical and problem-solving skills<br>💬 Ask me about Python, Data Analytics, Cybersecurity, and books! <br>📫 How to reach me: Instagram<br>⚡ Fun fact: I just jump into an english classical literatures, feel free to talk about it with me:D!<br>
